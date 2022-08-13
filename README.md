@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishabh Goyal
-- 🌱 I’m currently learning gRPC, AWS services
+- 🌱 I’m currently learning Reactive Programming, AWS services
 - 💬 Ask Me About Java, Spring, REST, Microservice, Distributed Systems
 - 📫 How to reach me rishab.goyal.04@gmail.com
 
